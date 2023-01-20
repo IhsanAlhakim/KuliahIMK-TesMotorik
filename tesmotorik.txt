@@ -1,0 +1,53 @@
+petunjuk
+-minta bantuan orang lain
+-pemeriksa cuci tangan
+-pasien berbaring di tempat tidur
+
+arti kata :
+dextra = kanan
+sinistra = kiri
+superior = atas
+inferior = bawah
+ekstremitas = anggota gerak
+
+tes motorik
+-pemeriksaan gerakan ekstremitas atas
+interpretasi gerakan : bebas/terbatas
+ekstremitas superior dekstra et sinistra : ...
+ekstremitas inferior dekstra et sinistra : ...
+
+-pemeriksaan kekuatan ekstremitas atas
+-pemeriksaan kekuatan ekstremitas inferior
+interpretasi :
+skor 5 : kekuatan penuh
+skor 4 : bisa melawan gravitasi dan menahan tahanan ringan
+skor 3 : bisa melawan gravitasi namun tidak bisa melawan tahanan ringan
+skor 2 : tidak bisa melawan gravitasi, hanya bisa digerakan ke kanan dan kekiri/bergeser
+skor 1 : tidak bisa digerakan, hanya bisa berkontraksi otot saja
+skor 0 : tidak bisa berkontraksi sama sekali.
+
+kekuatan ekstremitas superior dextra et sinistra : 444/555
+kekuatan inferior superior dextra et sinistra : 333/555
+555 artinya pemeriksaan 1 dapet nilainya 5,pemeriksaan 2 dapet nilainya 5,pemeriksaan 2 dapet nilainya 5
+333, 444, juga sama
+
+-pemeriksaan tonus ekstremitas superior dan inferior
+interpretasi : hypertonia, eutonia, hipotonia
+
+
+-pertanyaan gerakan motorik
+bagaimana gerakan tangan saat diperiksa? (bebas atau kaku)
+
+-pemeriksaan tonus otot
+-tangan
+letakkan tangan pemeriksa/meraba pada otot bahu
+cek video 11.50
+tonus otot berkurang atau malah menghilang (hipotoni)
+tonus otot meningkat, fenomena pisau lipat, saat tonus otot dipegang pemeriksa dan saat digerakkan dengan cepat, akan ada tahanan mendadak saat digerakan degan cepat, setelah digerakkan pada titik tertentu, tahanan hilangan, saat digerakkan berat mendadak lalu rigan menunjukkan tonusnya meningkat(hiper)
+pemeriksaan tonus harus agak cepat
+
+kontraksi otot
+keadaan saat otot menegang dan memendek
+
+relaksasi otot 
+kondisi oo

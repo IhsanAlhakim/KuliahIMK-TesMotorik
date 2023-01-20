@@ -1,0 +1,162 @@
+/*----------------------------index.php----------------------------*/
+/* Navbar */
+.navbar-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+/* Navbar */
+
+
+/* Jumbotron */
+.jumbotron {
+    background-image: url("../img/jumbotron.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbotron h1 {
+    font-size: 5em;
+    color: white;
+    text-shadow: 5px 5px 15px black;
+}
+.jumbotron p {
+    font-size: 2em;
+    color: white;
+    text-shadow: 5px 5px 15px black;
+}
+/* Jumbotron */
+
+
+/* Deskripsi */
+.deskripsi .row .col-12 h1 {
+    font-size: 3rem;
+}
+.deskripsi .row .col-12 p {
+    font-size: 1.2rem;
+}
+
+/* Deskripsi */
+
+
+/* Tes dan Latihan Motorik */
+.tes-sekarang h1 {
+    font-size: 3em;
+}
+.tes-sekarang p, .tes-sekarang button {
+    font-size: 1.2em;
+}
+.tes-sekarang{
+    border: 5px black dashed;
+    padding: 10px;
+}
+/* Tes dan Latihan Motorik */
+
+
+/* Contact us */
+.form-group {
+    margin-bottom: 10px;
+}
+.text-contact {
+    margin-top: 100px;
+}
+/* Contact us */
+
+/* About us */
+.about-us h1 {
+    top: 130px;
+    font-size: 3rem;
+}
+.kotak-paragraf-about {
+    width: 700px;
+    top: 340px;
+    font-size: 1.2rem;
+}
+/* About us */
+
+
+/* Footer */
+footer {
+    font-size: 1.2em;
+    height: 50px;
+}
+/* Footer */
+/*----------------------------index.php----------------------------*/
+
+
+/*----------------------------tes_motorik_tatacara.php dan latihan_motorik_tatacara.php----------------------------*/
+.cara-tes-motorik h1, .cara-latihan-motorik h1 {
+    top: 130px;
+    font-size: 3rem;
+}
+.kotak-paragraf-tatacara-tes {
+    width: 700px;
+    top: 300px;
+    font-size: 1.2rem;
+}
+.cara-tes-motorik a {
+    top: 240px;
+}
+.cara-tes-motorik ol li, .cara-tes-motorik button, .cara-latihan-motorik ol li, .cara-latihan-motorik button {
+    font-size: 1.2rem;
+}
+/*----------------------------tes_motorik_tatacara.php dan latihan_motorik_tatacara.php----------------------------*/
+
+
+
+/*----------------------------tes_motorik.php----------------------------*/
+.tes-motorik h1, .evaluasi-tes h1{
+    margin-top: 40px; 
+}
+.tes-motorik h1, .ke-evaluasi h1, .evaluasi-tes h1{
+    font-size: 3em;
+}
+.tes-motorik p, .tes-motorik label, .tes-motorik option, .tes-motorik li, .evaluasi-tes p, .evaluasi-tes button, .tes-motorik button, .tes-motorik td, .evaluasi-tes li{
+    font-size: 1.2em;
+}
+.tes-motorik form, .panduan-jawaban, .kotak-paragraf {
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+}
+.kotak-evaluasi {
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+}
+.evaluasi-tes td, .evaluasi-tes th  {
+    text-align: center;
+}
+.evaluasi-tes .tombol, .kotak-paragraf .tombol {
+    margin: auto;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+video {
+    display: block;
+    margin: auto;
+    border: 1px blue solid;
+    border-radius: 5%;
+}
+.tes-motorik h2 {
+    text-align: center;
+}
+.tes-motorik table {
+    width: 100%;
+}
+
+
+/*----------------------------tes_motorik_bagian1/2/3/4.php dan latihan_motorik.php----------------------------*/
+
+.tes-motorik, .deskripsi, .latihan-motorik, .contact, .jumbotron {
+    border-bottom: 5px slateblue solid;
+} 
+
+footer {
+    bottom: 0;
+}
+
+.kotak-paragraf img {
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+}
